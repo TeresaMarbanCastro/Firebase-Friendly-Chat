@@ -1,7 +1,6 @@
-# Firebase Web Codelab - Final code
 
-This folder contains the final code of the [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+# Firebase Codelab: FriendlyChat
 
-You can use this app directly if you'd like to see the finished app but before you do follow the [Create a Firebase Project and Setup](https://codelabs.developers.google.com/codelabs/firebase-web/#3) step of the Codelab instructions
+Creation of Chat to send messages and images using Firebase. 
 
-If you'd like to follow the step by step codelab start with the [web-start](../web-start) directory.
+Link to page:  https://testing-real-firebase.firebaseapp.com/
